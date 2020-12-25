@@ -9,5 +9,14 @@
   "Comment": {
     "body": "string",
     "post": "Post"
+  },
+  "RecordBase": {
+    "data": "Record[]",
+    "error": "int"
+  },
+  "Record": {
+    "userId": "int",
+    "title": "string",
+    "type": "int"
   }
 }
