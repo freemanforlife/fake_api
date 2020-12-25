@@ -11,7 +11,7 @@
     "post": "Post"
   },
   "RecordBase": {
-    "data": "Record[]",
+    "data": "record[]",
     "error": "int"
   },
   "Record": {
